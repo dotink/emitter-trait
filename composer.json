@@ -1,0 +1,20 @@
+{
+	"name": "dotink/emitter-trait",
+	"description": "Simple consistent hooks",
+	"keywords": ["events", "callbacks"],
+	"license": "AGPL 3.0",
+	"authors": [
+		{
+			"name": "Matthew J. Sahagian",
+			"email": "msahagian@dotink.org",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"imarc/tails": "*"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
