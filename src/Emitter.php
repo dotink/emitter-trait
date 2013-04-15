@@ -62,7 +62,7 @@
 			}
 
 			foreach ($this->listeners[$signal] as $callback) {
-				call_user_func_array($callback, array_slize(func_get_args(), 1));
+				call_user_func_array($callback, array_slice(func_get_args(), 1));
 			}
 
 			return $this;
