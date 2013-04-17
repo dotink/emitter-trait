@@ -20,9 +20,7 @@
 	"extra": {
 		"tails": {
 			"inkwell-2.0": {
-				"dotink/emitter-trait": {
-					"src": "library/traits"
-				}
+				"src": "library/traits"
 			}
 		}
 	}
