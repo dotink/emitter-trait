@@ -12,13 +12,13 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"imarc/tails": "*"
+		"imarc/tails": "dev-dev"
 	},
 	"autoload": {
 		"classmap": ["src/"]
 	},
 	"extra": {
-		"tails": {
+		"opus": {
 			"inkwell-2.0": {
 				"src": "library/traits"
 			}
