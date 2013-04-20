@@ -3,6 +3,7 @@
 	"description": "Simple consistent hooks",
 	"keywords": ["events", "callbacks"],
 	"license": "AGPL 3.0",
+	"type": "opus-package",
 	"authors": [
 		{
 			"name": "Matthew J. Sahagian",
