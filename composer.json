@@ -12,7 +12,7 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"imarc/opus": "dev-dev"
+		"imarc/opus": "dev-master"
 	},
 	"autoload": {
 		"classmap": ["src/"]
