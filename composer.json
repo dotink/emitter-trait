@@ -20,7 +20,7 @@
 	},
 	"extra": {
 		"opus": {
-			"inkwell-2.0": {
+			"dotink/inkwell-2.0": {
 				"src": "library/traits"
 			}
 		}
