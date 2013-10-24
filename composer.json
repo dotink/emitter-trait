@@ -2,7 +2,7 @@
 	"name": "dotink/emitter-trait",
 	"description": "Simple consistent hooks",
 	"keywords": ["events", "callbacks"],
-	"license": "AGPL 3.0",
+	"license": "AGPL-3.0",
 	"type": "opus-package",
 	"authors": [
 		{
@@ -21,7 +21,8 @@
 	"extra": {
 		"opus": {
 			"dotink/inkwell-2.0": {
-				"src": "library/traits"
+				"src/traits": "library/traits",
+				"src/interfaces": "library/interfaces"
 			}
 		}
 	}
